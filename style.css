@@ -1,0 +1,43 @@
+*{
+  padding: 0px; 
+  margin: 0px;
+}
+
+.navbar{
+    width: 100vw;
+    height: 5vh;
+    background-color: aqua;
+}
+
+.content-body{
+    text-align: center;
+    background-color: rgb(148, 232, 253);
+    height: 100vh;
+}
+
+.more-links{
+    margin-top: 5vh;
+    width: 21vw;
+    background-color: blue;
+    height: 40vh;
+    float: left;
+
+}
+
+.main-content{
+    margin-top: 5vh;
+    width: 45vw;
+    background-color: rgb(120, 202, 235);
+    height: 60vh;
+    display: inline-block;
+    
+}
+
+.side-content{
+    margin-top: 5vh;
+    width: 32vw;
+    height: 45vh;
+    background-color: rgb(99, 179, 179);
+    float: right;
+}
+
